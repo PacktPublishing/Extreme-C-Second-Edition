@@ -1,12 +1,12 @@
 /*
- * anonymous.c
+ * anonymous_structs.c
  * Chapter 12
  * Extreme C, 2nd Edition
  *
  * Demonstrate anonymous structs and unions
  *
  * Compile with:
- *  clang anonymous.c -o anonymous -Werror -Wall
+ *  clang anonymous_structs.c -o anonymous_structs -Werror -Wall
  */
   
 
