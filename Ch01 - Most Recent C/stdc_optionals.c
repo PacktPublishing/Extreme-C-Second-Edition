@@ -121,7 +121,7 @@ int main( int argc, char *argv[] ) {
 
   printf( "     __STDC_NO_COMPLEX__ " );
 #ifdef __STDC_NO_COMPLEX__
-  printf( "= %d\n" , __STDC_NO_ATOMICS__ );
+  printf( "= %d\n" , __STDC_NO_COMPLEX__ );
 #else
   printf( "... not defined.\n" );
 #endif
