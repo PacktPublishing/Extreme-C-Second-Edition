@@ -1,6 +1,6 @@
 /*
  * stdc_optionals.c
- * Chapter 12
+ * Chapter 1
  * Extreme C, 2nd Edition
  *
  * Check the C optional features
