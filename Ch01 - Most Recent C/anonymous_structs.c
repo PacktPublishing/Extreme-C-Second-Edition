@@ -1,6 +1,6 @@
 /*
  * anonymous_structs.c
- * Chapter 12
+ * Chapter 1
  * Extreme C, 2nd Edition
  *
  * Demonstrate anonymous structs and unions
@@ -38,6 +38,5 @@ int main( void  ) {
   
   return 0;
 }
-
 
 /* eof */
