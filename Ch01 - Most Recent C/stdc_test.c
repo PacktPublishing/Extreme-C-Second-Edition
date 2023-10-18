@@ -1,6 +1,6 @@
 /*
  * stdc_version.c
- * Chapter 12
+ * Chapter 1
  * Extreme C, 2nd Edition
  *
  * Check the C standard version
@@ -48,6 +48,5 @@ int main( int argc, char** argv ) {
   
   return 0; 
 } 
-
 
 /* eof */
